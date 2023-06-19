@@ -8,6 +8,8 @@ BlackLung is a PoC ransomware virus, completely written in python. It has a buil
 
 ![BlackLung!](/Images/black-lung.png)
 
+**                                                                                                                                                                             **
+
 ** DISCLAIMER: **
 **                                                                                                                                                                             **  
 **   BlackLung Ransomware is just a POC  (Proof of concept) ransomware virus, and it's code is strictly for educational purposes                                               **  
