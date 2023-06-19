@@ -35,9 +35,9 @@
 
 1. [Features of _BlackLung_ ransomware](https://github.com/PlayzDev/BlackLung-PoC#features)
 1. [Cloning the repository](https://github.com/PlayzDev/BlackLung-PoC/edit/main/README.md#cloning-the-repository)
-2. Installing the required dependencies
-3. Disabling the safeguard
-4. Compiling into a stand-alone executable
+2. [Installing the required dependencies](https://github.com/PlayzDev/BlackLung-PoC/edit/main/README.md#installing-the-required-dependencies)
+3. [Disabling the safeguard](https://github.com/PlayzDev/BlackLung-PoC/edit/main/README.md#disabling-the-safeguard)
+4. [Compiling into a stand-alone executable](https://github.com/PlayzDev/BlackLung-PoC/edit/main/README.md#disabling-the-safeguard)
 
 
 
@@ -51,7 +51,7 @@
 ## Features:
 
 
-###### Features of BlackLung ransomware:
+###### All features of BlackLung-PoC ransomware:
 
 1. Safeguard to protect against accidental encryption - (Enabled by default)
 1. Generates a random key every time BlackLung ransomware is run
@@ -60,7 +60,7 @@
 4. Sends the key, hostname, and the date and time of the victim's PC to a server - (Disabled by default - server script not publicly available).
 5. Encrypts all the files on the C: drive
 
-<br?
+<br>
 
 While there are quite a few features in **_BlackLung-PoC_**, there is no publicly available server script which is needed to run the server that the BlackLung ransomware sends the key and hostname to. As for _"when"_ the server script will be made publicly available, the answer unfortunately is **_NEVER_**. And the reason for that as I have mentioned above is due to any potential legal issues, as well as potential legal concerns.
 
@@ -75,7 +75,7 @@ While there are quite a few features in **_BlackLung-PoC_**, there is no publicl
 
 
 
-###### Copy and paste the following into your terminal or command prompt, to clone the repository for _BlackLung_ ransomware:
+###### Copy and paste the following into your terminal or command prompt, and press enter:
 
 ```git
 git clone https://github.com/PlayzDev/BlackLung-PoC.git
@@ -89,9 +89,37 @@ git clone https://github.com/PlayzDev/BlackLung-PoC.git
 <br>
 <br>
 
-## Disabling the safeguard:
+## Installing the required dependencies:
+
+
+
+###### Copy and paste the following into your terminal or command prompt, and press enter:
+
+```python
+pip3 install auto-py-to-exe
+```
 
 <br>
+
+or
+
+<br>
+
+```python
+python -m install auto_py_to_exe
+```
+
+<br>
+<br>
+
+** **
+
+<br>
+<br>
+
+## Disabling the safeguard:
+
+
 
 ###### To disable the safeguard find the following lines in the code, and comment them out.
 ```python
@@ -117,4 +145,7 @@ if safeguard != 'start blacklung':
 <br>
 <br>
 
+## Compiling into a stand-alone executable:
 
+
+###### Step 1.
