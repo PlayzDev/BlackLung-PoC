@@ -34,7 +34,7 @@
 
 
 1. [Features of _BlackLung_ ransomware](https://github.com/PlayzDev/BlackLung-PoC#features)
-1. Cloning the repository 
+1. [Cloning the repository](https://github.com/PlayzDev/BlackLung-PoC/edit/main/README.md#cloning-the-repository)
 2. Installing the required dependencies
 3. Disabling the safeguard
 4. Compiling into a stand-alone executable
@@ -60,6 +60,9 @@
 4. Sends the key, hostname, and the date and time of the victim's PC to a server - (Disabled by default - server script not publicly available).
 5. Encrypts all the files on the C: drive
 
+<br?
+
+While there are quite a few features in **_BlackLung-PoC_**, there is no publicly available server script which is needed to run the server that the BlackLung ransomware sends the key and hostname to. As for _"when"_ the server script will be made publicly available, the answer unfortunately is **_NEVER_**. And the reason for that as I have mentioned above is due to any potential legal issues, as well as potential legal concerns.
 
 ** **
 
@@ -67,7 +70,19 @@
 <br>
 
    
+## Cloning the repository:
 
+<br>
 
+###### Copy and paste the following into your terminal or command prompt, to clone the repository for _BlackLung_ ransomware:
+
+```git
+git clone https://github.com/PlayzDev/BlackLung-PoC.git
+```
+
+<br>
+<br>
+
+** **
 
 
