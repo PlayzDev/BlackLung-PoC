@@ -6,7 +6,7 @@
 
 BlackLung is a PoC ransomware virus, completely written in python. It has a built in safeguard, which is enabled by default so you don't accidentally encrypt your files on your main system. The default safeguard  password is "start blacklung" without the quotes. 
 
-![BlackLung!](/Images/black-lung-icon.png)
+![BlackLung!](/Images/black-lung.png)
 
 ** DISCLAIMER: **
 **                                                                                                                                                                             **  
