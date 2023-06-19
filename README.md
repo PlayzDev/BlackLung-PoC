@@ -69,10 +69,11 @@ While there are quite a few features in **_BlackLung-PoC_**, there is no publicl
 <br>
 <br>
 
+
    
 ## Cloning the repository:
 
-<br>
+
 
 ###### Copy and paste the following into your terminal or command prompt, to clone the repository for _BlackLung_ ransomware:
 
@@ -84,5 +85,36 @@ git clone https://github.com/PlayzDev/BlackLung-PoC.git
 <br>
 
 ** **
+
+<br>
+<br>
+
+## Disabling the safeguard:
+
+<br>
+
+###### To disable the safeguard find the following lines in the code, and comment them out.
+```python
+# Safeguard password  -  (Comment out the next three lines to disable the safeguard) 
+safeguard = input("Please enter the safeguard password: ")
+if safeguard != 'start blacklung':
+    quit()
+```
+
+<br>
+
+
+###### If the lines of code for the safeguard now looks like this, then you have successfully disabled the safeguard
+```python
+# Safeguard password  -  (Comment out the next three lines to disable the safeguard) 
+#safeguard = input("Please enter the safeguard password: ")
+#if safeguard != 'start blacklung':
+    #quit()
+```
+
+** **
+
+<br>
+<br>
 
 
