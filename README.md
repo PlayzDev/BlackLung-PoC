@@ -31,7 +31,9 @@
 
 ## Table of contents:
 
-1. Features of _BlackLung ransomware_
+
+
+1. [Features of _BlackLung_ ransomware](https://github.com/PlayzDev/BlackLung-PoC#features)
 1. Cloning the repository 
 2. Installing the required dependencies
 3. Disabling the safeguard
