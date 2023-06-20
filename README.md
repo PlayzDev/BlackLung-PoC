@@ -80,6 +80,9 @@ While there are quite a few features in **_BlackLung-PoC_**, there is no publicl
 ```git
 git clone https://github.com/PlayzDev/BlackLung-PoC.git
 ```
+<br>
+
+![BlackLung!](/Images/git-clone.png)
 
 <br>
 <br>
@@ -98,16 +101,22 @@ git clone https://github.com/PlayzDev/BlackLung-PoC.git
 ```python
 pip3 install auto-py-to-exe
 ```
+<br>
+
+![BlackLung!](/Images/pip3-install-auto-py-to-exe.png)
 
 <br>
 
-or
+or if that doesn't work then do:
 
 <br>
 
 ```python
 python -m install auto_py_to_exe
 ```
+<br>
+
+![BlackLung!](/Images/python-m-install-auto_py_to_exe.png)
 
 <br>
 <br>
@@ -155,14 +164,20 @@ open a terminal or command prompt and type the following, then hit enter:
 ```python
 auto-py-to-exe
 ```
+<br>
+
+![BlackLung!](/Images/auto-py-to-exe.gif)
 
 <br>
 
-or
+or if that doesn't work then do:
 
 ```python
 python -m auto_py_to_exe
 ```
+<br>
+
+![BlackLung!](/Images/auto_py_to_exe.gif)
 
 <br>
 
