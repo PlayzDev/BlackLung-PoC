@@ -24,7 +24,7 @@
 
 
 
-## WARNING: 
+## FILE LOSS WARNING!! 
 **Since the server script is not publicly available, once you run BlackLung THERE IS ABSOLUTELY NO WAY TO GET YOUR FILES BACK!!! You have been warned!!!**  
 
 ** **
