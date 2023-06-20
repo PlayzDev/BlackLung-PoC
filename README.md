@@ -150,7 +150,7 @@ if safeguard != 'start blacklung':
 
 ###### Step 1.
 
-open a terminal or command prompt and type: 
+open a terminal or command prompt and type the following, then hit enter: 
 
 ```python
 auto-py-to-exe
@@ -163,3 +163,8 @@ or
 ```python
 python -m auto_py_to_exe
 ```
+
+<br>
+
+###### Step 2.
+
