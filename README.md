@@ -1,5 +1,7 @@
 # BlackLung-PoC
-![GitHub all releases](https://img.shields.io/github/downloads/PlayzDev/BlackLung-PoC/total?style=flat-square&logo=GitHub&label=Downloads&link=https%3A%2F%2Fgithub.com%2FPlayzDev%2FBlackLung-PoC%2Freleases) ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/PlayzDev/BlackLung-PoC?style=flat-square&logo=GitHub) ![Static Badge](https://img.shields.io/badge/Python%20version%3A%20-%203.11.4%20-%230000FF?style=flat-square&logo=Python&label=Python%20version&color=%230000FF) ![Static Badge](https://img.shields.io/badge/Made%20in%20the%3A%20-%20United%20States%20%F0%9F%87%BA%F0%9F%87%B8%20-%20%230000FF?style=flat-square&label=Made%20in%20the%3A%20)
+![GitHub all releases](https://img.shields.io/github/downloads/PlayzDev/BlackLung-PoC/total?style=flat-square&logo=GitHub&label=Downloads&link=https%3A%2F%2Fgithub.com%2FPlayzDev%2FBlackLung-PoC%2Freleases) ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/PlayzDev/BlackLung-PoC?style=flat-square&logo=GitHub) ![Static Badge](https://img.shields.io/badge/Python%20version%3A%20-%203.11.4%20-%230000FF?style=flat-square&logo=Python&label=Python%20version&color=%230000FF) ![Static Badge](https://img.shields.io/badge/Made%20in%20the%3A%20-%20United%20States%20%F0%9F%87%BA%F0%9F%87%B8%20-%20%230000FF?style=flat-square&label=Made%20in%20the%3A%20) ![Static Badge](https://img.shields.io/badge/Finished-%2332CD32?style=flat-square&logo=GitHub&label=Project%20status) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQv-szGvORX85goAUHPLtJA?style=flat-square&logo=YouTube&label=YouTube)
+
+
 
 
 
