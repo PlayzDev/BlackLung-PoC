@@ -20,7 +20,7 @@
 **BlackLung Ransomware is just a POC  (Proof of concept) ransomware virus, and it's code is strictly for educational purposes only!**  
 **Any illegal use of BlackLung Ransomware or it's source code is strictly prohibited and will result in the source code for Blacklung Ransomware being removed from the public domain and all public access to it's source code, Wiki's, and Github page will be revoked permanently!.**  
 
-**Please note that even though I have already created the server script (which the server that the ransomware sends the key, and the hostname, and the date and time of the victim's computer to), I WILL NOT be making it publicly available/accessible due to legal reasons/potential legal issues.**  
+**Please note that the server script, (which is the server that the ransomware sends the key and hostname to), **_WILL NOT_** be publicly available due to legal concerns.**  
 
 
 
